@@ -7,35 +7,35 @@ This repository contains a collection of Operating Systems laboratory programs i
 
 List of Programs
 
-01_system_calls.c
-Demonstrates basic file operations using system calls (open, read, write, close).
+    01_system_calls.c
+    Demonstrates basic file operations using system calls (open, read, write, close).
 
-02_fork_process_creation.c
-Creates parent and child processes using fork().
+    02_fork_process_creation.c
+    Creates parent and child processes using fork().
 
-03_orphan_zombie.c
-Shows orphan and zombie process behavior.
+    03_orphan_zombie.c
+    Shows orphan and zombie process behavior.
 
-04_exec_system_call.c
-Demonstrates program replacement using the exec family of system calls.
+    04_exec_system_call.c
+    Demonstrates program replacement using the exec family of system calls.
 
-05_process_synchronization.c
-Process synchronization using semaphores or producer–consumer logic.
+    05_process_synchronization.c
+    Process synchronization using semaphores or producer–consumer logic.
 
-06_cpu_scheduling.cpp
-Implements CPU scheduling algorithms such as FCFS, SJF, Priority, or Round Robin.
+    06_cpu_scheduling.cpp
+    Implements CPU scheduling algorithms such as FCFS, SJF, Priority, or Round Robin.
 
-07_first_fit.c
-Memory allocation using the First Fit strategy.
+    07_first_fit.c
+    Memory allocation using the First Fit strategy.
 
-07_best_fit.c
-Memory allocation using the Best Fit strategy.
+    07_best_fit.c
+    Memory allocation using the Best Fit strategy.
 
-07_worst_fit.c
-Memory allocation using the Worst Fit strategy.
+    07_worst_fit.c
+    Memory allocation using the Worst Fit strategy.
 
-08_bankers_algorithm.c
-Implements the Banker's Algorithm for deadlock avoidance.
+    08_bankers_algorithm.c
+    Implements the Banker's Algorithm for deadlock avoidance.
 
 Topics Covered
 

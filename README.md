@@ -39,34 +39,34 @@ Implements the Banker's Algorithm for deadlock avoidance.
 
 Topics Covered
 
-System calls
+    1.System calls
 
-Process creation
+    2.Process creation
 
-Orphan and zombie processes
+    3.Orphan and zombie processes
 
-Exec system call
+    4.Exec system call
 
-Semaphores and synchronization
+    5.Semaphores and synchronization
 
-CPU scheduling algorithms
+    6.CPU scheduling algorithms
 
-Memory allocation methods
+    7.Memory allocation methods
 
-Deadlock avoidance
+    8.Deadlock avoidance
 
 How to Run
 
-Compile C programs:
+  Compile C programs:
 
-gcc filename.c -o output
-./output
+    gcc filename.c -o output
+    ./output
 
 
-Compile C++ programs:
+  Compile C++ programs:
 
-g++ filename.cpp -o output
-./output
+    g++ filename.cpp -o output
+    ./output
 
 Note
 

@@ -75,5 +75,3 @@ This repository is designed for OS lab submissions, viva preparation, and academ
 Author
 
 Shubham Dhabu
-B.Tech Computer Engineering
-SVPCET

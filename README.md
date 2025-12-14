@@ -72,6 +72,7 @@ Note
 
 This repository is designed for OS lab submissions, viva preparation, and academic learning.
 
-Author
+AUTHOR
+------------------------------------------------------------
 
 Shubham Dhabu
